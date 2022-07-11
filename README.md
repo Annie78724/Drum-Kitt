@@ -1,1 +1,1 @@
-# Drum-Kitt
+# Simon Game
